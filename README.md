@@ -1,5 +1,5 @@
 
-# Challenge Full stack web
+# +A Educação
 
 ## Decisão da arquitetura utilizada
 - backend: MVC
