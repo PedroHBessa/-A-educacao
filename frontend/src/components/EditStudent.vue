@@ -21,12 +21,14 @@
         :rules="raRules"
         label="Registro Acadêmico"
         required
+        disabled
       ></v-text-field>
       <v-text-field
         v-model="studentCpf"
         :rules="cpfRules"
         label="Cpf"
         required
+        disabled
       ></v-text-field>
 
       <div class="d-flex justify-end">
